@@ -1,1 +1,1 @@
-# zadaci
+# zadaci iz Typescript-a
